@@ -1,7 +1,9 @@
 {
-  "name": "TM112 Live Tutorials",
-  "short_name": "Tutorials",
-  "start_url": "./", "scope": "./",
+  "name": "OU Guidance",
+  "short_name": "OU Guidance",
+  "description": "Bruno's Open University guide: study plan, deadlines, tutorials, time off and degree roadmap.",
+  "start_url": "./#today",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
